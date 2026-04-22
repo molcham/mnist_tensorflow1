@@ -98,6 +98,7 @@ with tf.Session() as sess:
     print()
     print("Tensorflow:",tf.__version__)
     
+# 답안 제출 정보
     data = {
     '이름': ['손채민'],
     '학번': [2211313],
